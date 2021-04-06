@@ -1,0 +1,1 @@
+file preprocessing.ipynb harus dibuka lewat google colab
